@@ -3,6 +3,8 @@
 Spyder Editor
 
 This is a temporary script file.
+
+python 3.x onwards
 """
 
 print("hellow world")
